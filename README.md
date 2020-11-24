@@ -1,6 +1,6 @@
 ## I'm a self taught Student, Developer
 
-- 🔭 I just started my first small OpenSource Project [OSFirst]
+- 🔭 I just started my first small OpenSource [Project][OSFirst]
 - 🌱 I’m learning Arduino, Python3.8 and Java
 - ⚡ Fun fact: I am from Germany
 <br />
