@@ -11,4 +11,4 @@
 
 </details>
 
-[LENI]: https://github.com/jonasnapierski/leni
+[LENI]: https://github.com/jonasnapierski/leni-py
