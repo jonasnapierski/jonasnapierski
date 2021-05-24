@@ -1,6 +1,6 @@
 ## I'm a self taught Student, Developer
 
-- 🔭 I just started my first small OpenSource [Project][OSFirst]
+- 🔭 I just started my first small OpenSource [Project][LENI]
 - 🌱 I’m learning Arduino, Python3.8 and Java
 - ⚡ Fun fact: I am from Germany
 <br />
@@ -11,5 +11,4 @@
 
 </details>
 
-[OSFirst]: https://github.com/jonasnapierski/web-backend-proxy
 [LENI]: https://github.com/jonasnapierski/leni
